@@ -1,3 +1,6 @@
+# This is NOT original device tree
+This tree may include some changes by repo owner
+
 # Android device tree for Xiaomi 2107113SC (vili)
 
 ```
